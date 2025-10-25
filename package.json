@@ -1,0 +1,32 @@
+{
+    "name": "8pods-monorepo",
+    "version": "1.0.0",
+    "description": "8Pods - Podcast Search Application Monorepo",
+    "private": true,
+    "scripts": {
+        "test": "./run-tests.sh",
+        "test:frontend": "cd frontend && npm test",
+        "test:backend": "cd backend && npm test",
+        "test:e2e": "cd backend && npm run test:e2e",
+        "test:coverage": "npm run test:frontend -- --coverage && npm run test:backend -- --coverage",
+        "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+        "dev:frontend": "cd frontend && npm run dev",
+        "dev:backend": "cd backend && npm run start:dev",
+        "build:frontend": "cd frontend && npm run build",
+        "build:backend": "cd backend && npm run build",
+        "docker:dev": "docker-compose -f docker-compose.dev.yml up --build",
+        "docker:prod": "docker-compose up --build",
+        "docker:down": "docker-compose down",
+        "docker:clean": "docker-compose down -v && docker system prune -f"
+    },
+    "keywords": [
+        "podcast",
+        "search",
+        "nextjs",
+        "nestjs",
+        "typescript",
+        "thmanyah"
+    ],
+    "author": "Mahmoud Metwally",
+    "license": "UNLICENSED"
+}

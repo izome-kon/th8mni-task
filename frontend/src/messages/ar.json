@@ -1,0 +1,66 @@
+{
+    "common": {
+        "appName": "8Pods",
+        "search": "بحث",
+        "searchPlaceholder": "ابحث عن بودكاست...",
+        "loading": "جاري التحميل...",
+        "error": "خطأ",
+        "noResults": "لا توجد نتائج",
+        "tryAgain": "حاول مرة أخرى",
+        "viewGrid": "عرض شبكي",
+        "viewList": "عرض قائمة"
+    },
+    "header": {
+        "title": "8Pods",
+        "title2": "محرك بحث بودكاست",
+        "subtitle": "اكتشف بودكاست مميزة"
+    },
+    "search": {
+        "placeholder": "ابحث عن بودكاست...",
+        "searching": "جاري البحث...",
+        "resultsFor": "نتائج البحث عن",
+        "totalResults": "تم العثور على {count} نتيجة"
+    },
+    "podcast": {
+        "by": "بواسطة",
+        "episodes": "{count} حلقة",
+        "eps": "حلقة",
+        "viewOnItunes": "عرض في iTunes",
+        "genres": "التصنيفات"
+    },
+    "pagination": {
+        "navigation": "التنقل بين الصفحات",
+        "previous": "السابق",
+        "next": "التالي",
+        "page": "صفحة {number}"
+    },
+    "theme": {
+        "toggle": "تبديل المظهر",
+        "light": "الوضع الفاتح",
+        "dark": "الوضع الداكن"
+    },
+    "language": {
+        "toggle": "تبديل اللغة",
+        "english": "English",
+        "arabic": "العربية"
+    },
+    "errors": {
+        "generic": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+        "network": "خطأ في الشبكة. يرجى التحقق من الاتصال.",
+        "rateLimit": "عدد كبير جداً من الطلبات. يرجى الانتظار قليلاً.",
+        "noConnection": "لا يوجد اتصال بالإنترنت"
+    },
+    "error": {
+        "title": "حدث خطأ ما",
+        "retry": "حاول مرة أخرى"
+    },
+    "results": {
+        "noResults": "لا يوجد بودكاست",
+        "noResultsDescription": "جرب كلمات بحث مختلفة أو تحقق من الإملاء",
+        "resultsCount": "تم العثور على {count} بودكاست",
+        "allLoaded": "لقد وصلت إلى نهاية النتائج"
+    },
+    "navigation": {
+        "backToTop": "العودة للأعلى"
+    }
+}

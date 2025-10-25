@@ -1,0 +1,66 @@
+{
+    "common": {
+        "appName": "8Pods",
+        "search": "Search",
+        "searchPlaceholder": "Search for podcasts...",
+        "loading": "Loading...",
+        "error": "Error",
+        "noResults": "No results found",
+        "tryAgain": "Try Again",
+        "viewGrid": "Grid View",
+        "viewList": "List View"
+    },
+    "header": {
+        "title": "8Pods",
+        "title2": "Podcast Search",
+        "subtitle": "Discover amazing podcasts"
+    },
+    "search": {
+        "placeholder": "Search for podcasts...",
+        "searching": "Searching...",
+        "resultsFor": "Search results for",
+        "totalResults": "{count} results found"
+    },
+    "podcast": {
+        "by": "By",
+        "episodes": "{count} episodes",
+        "eps": "eps",
+        "viewOnItunes": "View on iTunes",
+        "genres": "Genres"
+    },
+    "pagination": {
+        "navigation": "Pagination navigation",
+        "previous": "Previous",
+        "next": "Next",
+        "page": "Page {number}"
+    },
+    "theme": {
+        "toggle": "Toggle Theme",
+        "light": "Light Mode",
+        "dark": "Dark Mode"
+    },
+    "language": {
+        "toggle": "Toggle Language",
+        "english": "English",
+        "arabic": "العربية"
+    },
+    "errors": {
+        "generic": "Something went wrong. Please try again.",
+        "network": "Network error. Please check your connection.",
+        "rateLimit": "Too many requests. Please wait a moment.",
+        "noConnection": "No internet connection"
+    },
+    "error": {
+        "title": "Something went wrong",
+        "retry": "Try Again"
+    },
+    "results": {
+        "noResults": "No podcasts found",
+        "noResultsDescription": "Try different keywords or check your spelling",
+        "resultsCount": "{count} podcasts found",
+        "allLoaded": "You've reached the end of the results"
+    },
+    "navigation": {
+        "backToTop": "Back to top"
+    }
+}
