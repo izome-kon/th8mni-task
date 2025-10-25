@@ -631,6 +631,4 @@ All features below are covered by automated tests with **100% pass rate (49/49)*
 ## 📝 License
 
 **Developed with ❤️ for Thmanyah (ثمانية)**
-
-**By**: Mahmoud Metwally
-**Date**: October 25, 2025
+**By**: [Mahmoud Metwally](https://github.com/izome-kon)
