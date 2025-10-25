@@ -170,6 +170,4 @@ docker run -p 3000:3000 8pods-backend
 
 **Developed with ❤️ for Thmanyah (ثمانية)**
 
-**By: Mahmoud Metwally**
-
-**Date: 25 Oct 2025**
+**By**: [Mahmoud Metwally](https://github.com/izome-kon)
