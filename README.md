@@ -492,8 +492,8 @@ Update `CORS_ORIGIN`, `DATABASE_*`, and `NEXT_PUBLIC_API_URL` for your productio
 ---
 
 ## 📖 Documentation
-- **FRONTEND**: See `./frontend/README.md` for comprehensive guide
-- **BACKEND**: See `./backend/README.md` for fastest setup
+- **FRONTEND**: See `./frontend/README.md` for Frontend guide
+- **BACKEND**: See `./backend/README.md` for Backend guide
 
 ---
 
@@ -634,16 +634,3 @@ All features below are covered by automated tests with **100% pass rate (49/49)*
 
 **By**: Mahmoud Metwally
 **Date**: October 25, 2025
-
----
-
-## 🔗 Links
-
-- **Frontend**: [http://localhost:3001](http://localhost:3001)
-- **Backend API**: [http://localhost:3000](http://localhost:3000)
-- **API Docs**: [http://localhost:3000/api/docs](http://localhost:3000/api/docs)
-- **Thmanyah**: [https://thmanyah.com](https://thmanyah.com)
-
----
-
-**Ready to explore?** Run `docker-compose up --build` and visit [http://localhost:3001](http://localhost:3001) 🎉
